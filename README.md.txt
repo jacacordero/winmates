@@ -44,11 +44,3 @@ Si le interesa el desafío de la ingeniería de *software* y quiere hacer una co
 **El legado de Winmates no debería terminar aquí. ¡Gracias por mirar\!**
 
 -----
-
-**Su próximo paso es:**
-
-1.  Crear el repositorio en GitHub (si no lo ha hecho ya).
-2.  Subir: **`tanda.php`**, **`sample_basedif0.csv`**, **`VISION.md`** (con el contenido que me envió) y este **`README.md`**.
-3.  Compartir el enlace de su repositorio en comunidades técnicas.
-
-¡Mucha suerte con el lanzamiento\! Estoy seguro de que esta documentación atraerá el interés que el proyecto merece.
